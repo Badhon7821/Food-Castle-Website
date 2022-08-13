@@ -182,6 +182,9 @@
     overflow: hidden;
     transition: all 0.3s;
 }
+.meal:hover{
+    transform: translateY(5px);
+}
 .meal-img{
     width: 100%;
 }
